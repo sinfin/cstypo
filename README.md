@@ -1,6 +1,7 @@
 # CSTypo.js
 
 Include it, **after jQuery** like this:
+
     <script src="jquery.js"></script>
     <script src="jquery.lint.js"></script>
 
